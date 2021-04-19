@@ -1,5 +1,5 @@
 # contact-form-python-flask
-Contact form and send mail with Python e Flask
+Contact form and send mail with Python and Flask
 
 ### Skills
 
